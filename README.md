@@ -1,3 +1,23 @@
+# Jeremy Notes
+
+To run
+
+    npm start
+
+
+To build
+
+    yarn run build
+
+
+Demo
+
+http://thekeesh.com/react/tictactoe/build/
+
+=======
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
